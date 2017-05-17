@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Custom PCs.html",
     "name": "Budget IT",
     "theme": {
       "name": "mobirise3",
@@ -1643,7 +1643,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
               "linkInNewWindow": false,
-              "name": "cash",
+              "name": "sale",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
